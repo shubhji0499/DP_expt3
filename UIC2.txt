@@ -1,2 +1,6 @@
 I am in MCA(CCD)
+<<<<<<< HEAD
 Iam in MCA-CCD
+=======
+I am in MCAAIML
+>>>>>>> MCAAIML
